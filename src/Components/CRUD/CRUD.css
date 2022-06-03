@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+input{
+    height: 35px;
+    width: 20%;
+}
+button{
+    height: 40px;
+    width: 10%;
+    background-color: rgb(151, 108, 7);
+    color: white;
+}
+.edit{
+    height: 40px;
+    width: 10%;
+    background-color: rgb(15, 125, 32);
+    color: white;
+}
+.delete{
+    height: 40px;
+    width: 10%;
+    background-color: rgb(126, 37, 4);
+    color: white;
+}
